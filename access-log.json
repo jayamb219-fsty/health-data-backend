@@ -1,0 +1,20 @@
+[
+  {
+    "patientId": "123",
+    "timestamp": "2025-11-13T23:29:11.410Z",
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "patientId": "123",
+    "timestamp": "2025-11-13T23:36:29.906Z",
+    "ipAddress": "::ffff:10.0.0.123",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Brave/1 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "patientId": "123",
+    "timestamp": "2025-11-13T23:36:37.901Z",
+    "ipAddress": "::ffff:10.0.0.123",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Brave/1 Mobile/15E148 Safari/604.1"
+  }
+]
